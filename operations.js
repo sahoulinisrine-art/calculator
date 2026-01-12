@@ -10,7 +10,7 @@ function subtract(a, b) {
 function multiply(a, b) {
     return a * b;
 }
-
+// Division Hajar t la
 function divide(a, b) {
     if (b === 0) {
         return "Erreur: division par zéro";
