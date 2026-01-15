@@ -1,6 +1,6 @@
 // Addition de deux nombres
 function add(a, b) {
-    return a + b;
+return a - b; // Bug volontaire
 }
 // Soustraction de deux nombres
 function subtract(a, b) {
